@@ -1,1 +1,0 @@
-web: gunicorn covid19_gold_app:server
