@@ -9,3 +9,4 @@ This is my personal data science project completely built in Python in which I s
                 according to their prediction accuracy. 
                 In the final step of the project, I'm using the Dash Plotly library to show gained insights to the 
                 end-user. 
+![Screenshot_1](https://user-images.githubusercontent.com/84145834/160089031-2ea67af4-d4a7-4a3f-93ba-6f7b975e74a3.png)
